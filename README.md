@@ -1,6 +1,6 @@
 <h1>Q-Learning</h1>
 <h2>Sobre</h2>
-Esse projeto foi como objetivo de resolver uma atividade matriz de aprendizado da disciplina Agentes Inteligentes do curso Jogos Digitais da PUC-Minas no primeiro semetre de 2019.
+Esse projeto foi criado como objetivo de resolver uma atividade matriz de aprendizado da disciplina Agentes Inteligentes do curso Jogos Digitais da PUC-Minas no primeiro semetre de 2019. 
 
 <table border="1">
   <tr>
